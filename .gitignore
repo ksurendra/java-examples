@@ -1,0 +1,8 @@
+#OS Junk files
+*.DS_Store
+
+#Intellij files
+*.iml
+*.idea
+
+jaxrs-descriptor_less/target
