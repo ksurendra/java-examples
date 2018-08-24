@@ -42,3 +42,12 @@ This repository holds exampels of written using Java programming language. In so
 # Deploying the  Examples
 
 
+# Credits
+1. Java - Oracle Corporation
+2. OpenJDK - Oracle Corporation
+3. Jersey - Oracle Corporation
+4. Maven - Apache Maven Project
+
+
+# Questions / Suggestions
+* **Suren Konathala** Principal Architect/Developer. Tweet me @ksurendra
