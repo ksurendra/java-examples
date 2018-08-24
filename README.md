@@ -2,49 +2,43 @@
 
 This repository holds exampels of written using Java programming language. In some of the examples, other API's, Frameworks maybe have been used to demonstrate a feature or a process.
 
-## JAX-RS Examples
+# JAX-RS Examples
 ### 1. Descriptor-less Deployment
-*Folder*
+**Folder**
 
+**Test URL**
 
-*Test URL*
-http://localhost:8080/jaxrs-descriptor_less/service/dbservice/product
-
-*Sample output*
-
+**Sample output**
 
 ### 2. Using “web.xml” Descriptor
-*Folder*
+**Folder**
 
-*Test URL*
-http://localhost:8080/jaxrs-descriptor_less/service/dbservice/product
+**Test URL**
 
-*Sample output*
+**Sample output**
 
 
 ### 3. Without an “Application” subclass (Server Pluggability Mechanism)
-*Folder*
+**Folder**
 
+**Test URL**
 
-*Test URL*
-http://localhost:8080/jaxrs-descriptor_less/service/dbservice/product
-
-*Sample output*
+**Sample output**
 
 
 ### 4. Using custom “Application” subclass (Server Pluggability Mechanism)
-*Folder*
+**Folder**
 
-*Test URL*
-http://localhost:8080/jaxrs-descriptor_less/service/dbservice/product
+**Test URL**
 
-*Sample output*
+**Sample output**
 
-## Building the Examples
+
+# Building the Examples
 
 `mvn clean package`
 
 
-## Deploying the  Examples
+# Deploying the  Examples
 
 
