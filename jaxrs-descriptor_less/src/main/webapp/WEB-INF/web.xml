@@ -2,7 +2,7 @@
 <web-app version="3.0"
          xmlns="http://java.sun.com/xml/ns/javaee"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <display-name>JAX-RS Descriptor-less Web Application</display-name>
+  <display-name>JAX-RS Example - Descriptor-less</display-name>
   <servlet>
     <servlet-name>javax.ws.rs.core.Application</servlet-name>
   </servlet>

@@ -50,4 +50,4 @@ This repository holds exampels of written using Java programming language. In so
 
 
 # Questions / Suggestions
-* **Suren Konathala** Principal Architect/Developer. Tweet me @ksurendra
+* **Suren Konathala** Principal Architect/Developer. Tweet me @surenkonathala
