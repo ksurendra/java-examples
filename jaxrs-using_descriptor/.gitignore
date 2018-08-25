@@ -1,0 +1,12 @@
+*.DS_Store
+/core/target/
+.settings/
+core/.project
+core/.classpath
+.project
+.idea/
+*.iml
+
+# Node modules
+ui.resources/node_modules/
+

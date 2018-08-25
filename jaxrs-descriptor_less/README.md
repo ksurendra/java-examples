@@ -1,5 +1,5 @@
-# JAX-RS Descriptor-less Example
-This module includes all the primary sources required to build and development of JAX-RS Descriotor-less web appication.
+# JAX-RS Example - Descriptor-less
+This module includes all the primary sources required to build and development of JAX-RS Descriptor-less web application.
 
 # Build and Deployment
 System requirements
