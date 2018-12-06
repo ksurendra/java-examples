@@ -3,7 +3,7 @@
 This repository holds exampels of written using Java programming language. In some of the examples, other API's, Frameworks maybe have been used to demonstrate a feature or a process.
 
 ## Java JAX-RS REST examples
-* Descriptor-less Deployment
+* [Descriptor-less Deployment](https://github.com/ksurendra/java-examples/tree/master/jaxrs-descriptor_less)
 * Using “web.xml” Descriptor
 * Without an “Application” subclass (Server Pluggability Mechanism)
 * Using custom “Application” subclass (Server Pluggability Mechanism)
@@ -13,14 +13,14 @@ This repository holds exampels of written using Java programming language. In so
   * MongoDB example
   * MySQL example
 ## CDI (Contexts and Dependency Injection) for Java
-* Tomcat 8 and 9 using Weld
+* [Tomcat 8 and 9 using Weld](https://github.com/ksurendra/java-examples/tree/master/java-jersey-rest-cdi-tomcat-weld)
 * Jetty
 * Using Dagger 2
-## Building New Archetypes (coming soon)
+## Building New Archetypes
 * Build a new maven archetype
-# Apache Sling (coming soon)
+## Apache Sling (coming soon)
 * Starter / bootstrap package to build applications on Apache Sling
-## Sorting Algorithms (coming soon)
+## Sorting Algorithms
 * Insertion sort
 * Selection sort
 * Bubble sort
@@ -30,12 +30,6 @@ This repository holds exampels of written using Java programming language. In so
 * Heap sort
 
 ---
-
-# Building the Examples
-`mvn clean package`
-
-# Deploying the  Examples
-Copy the generated war file from the target folder and deploy to any java supported web application server (like Tomcat, Jetty, etc)
 
 # Credits
 1. Java - Oracle Corporation
