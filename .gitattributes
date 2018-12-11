@@ -1,6 +1,6 @@
 
-* linguist-vendored
-*.java linguist-language=Java
+# * linguist-vendored
+# *.java linguist-language=Java
 
 #
 # The above will handle all files NOT found below
