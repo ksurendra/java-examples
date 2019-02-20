@@ -32,4 +32,6 @@ Using Tomcat 8.x or 9.x:
 * [Get Postman Google Chrome Extension Here](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
 * Test endpoint
   * URL `http://sampleserver.com:8080/java-jersey-rest-upload-files/service/files/imageupload`
+
+  ![screen shot 2019-02-20 at 4 18 05 pm](https://user-images.githubusercontent.com/902972/53129368-f6fb2c80-352c-11e9-8afb-ce9361d0d038.png)
   
